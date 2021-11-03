@@ -1,0 +1,65 @@
+/* keyboard values */
+.iphone6plus .portrait #jim-ios8-phone-kb #letters { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/letters_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb #numbers { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/numbers_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb #signs { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/symbols_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb #letters .shift.caps { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keyshift_pressed.png'); margin-top:1px; }
+.iphone6plus .portrait #jim-ios8-phone-kb #letters .shift.capsLock { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keyshift_active.png'); margin-top:1px; }
+.iphone6plus .portrait #jim-ios8-phone-kb .space.pressed { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keyspace_pressed.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb .backspace.pressed { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keyerase_pressed.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb .return.pressed { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keyreturn_pressed.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb .divBubble { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keybubble_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb .divBubbleBig { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keybubble2_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb ul:first-child li:first-child .divBubble { background-image: url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keybubble_left_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb ul:first-child li + li + li + li + li + li + li + li + li + li .divBubble { background-image: url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keybubble_right_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb #numbers ul li:first-child .divBubble { background-image: url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keybubble_left_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb #numbers ul li + li + li + li + li + li + li + li + li + li .divBubble { background-image: url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keybubble_right_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb #signs ul li:first-child .divBubble { background-image: url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keybubble_left_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb #signs ul li + li + li + li + li + li + li + li + li + li .divBubble { background-image: url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/keybubble_right_iphone.png'); }
+.iphone6plus .portrait #jim-ios8-phone-kb #numbers ul { width:415px; }
+.iphone6plus .portrait #jim-ios8-phone-kb #signs ul { width:415px; }
+
+.iphone6plus .landscape #jim-ios8-phone-kb #letters { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/letters_iphone_landscape.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb #numbers { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/numbers_iphone_landscape.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb #signs { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/symbols_iphone_landscape.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb #letters .shift.caps { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/keyshift_pressed.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb #letters .shift.capsLock { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/keyshift_active.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb .space.pressed { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/keyspace_pressed.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb .backspace.pressed { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/keyerase_pressed.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb .return.pressed { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/keyreturn_pressed.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb .divBubble { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/keybubble_iphone.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb .divBubbleBig { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/keybubble2_iphone.png'); }
+.iphone6plus .landscape #jim-ios8-phone-kb #numbers > ul:first-child + ul  + ul li.backspace { margin-right:8px; }
+.iphone6plus .landscape #jim-ios8-phone-kb #signs > ul:first-child + ul  + ul li.backspace { margin-right:8px; }
+.iphone6plus .landscape #jim-ios8-phone-kb #letters li.shift { margin-right: 13px; }
+.iphone6plus .landscape #jim-ios8-phone-kb #numbers li.shift { margin-right: 13px; }
+.iphone6plus .landscape #jim-ios8-phone-kb #signs li.shift { margin-right: 13px; }
+.iphone6plus .landscape #jim-ios8-phone-kb li.letters { margin-right:4px; }
+.iphone6plus .landscape #jim-ios8-phone-kb #letters li.numbers { margin-right:4px; }
+
+/* dropdown values */
+.iphone6plus .portrait #jim-ios8-phone-dd #jim-iphone-dd_controls { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/date_topbar.png'); }
+.iphone6plus .portrait #jim-ios8-phone-dd #jim-iphone-dd_mask { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/dategradient.png'); }
+
+.iphone6plus .landscape #jim-ios8-phone-dd #jim-iphone-dd_controls { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/date_topbar_landscape.png'); }
+.iphone6plus .landscape #jim-ios8-phone-dd #jim-iphone-dd_mask { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/dategradient_landscape.png'); }
+
+/* date values*/
+.iphone6plus .portrait #jim-ios8-phone-da #jim-iphone-da_controls { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/date_topbar.png'); }
+.iphone6plus .portrait #jim-ios8-phone-da .jim-iphone-da_mask { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/dategradient.png'); }
+
+.iphone6plus .landscape #jim-ios8-phone-da #jim-iphone-da_controls { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/date_topbar_landscape.png'); }
+.iphone6plus .landscape #jim-ios8-phone-da .jim-iphone-da_mask { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/dategradient_landscape.png'); }
+
+/* time values */
+.iphone6plus .portrait #jim-ios8-phone-ti #jim-iphone-ti_controls { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/date_topbar.png'); }
+.iphone6plus .portrait #jim-ios8-phone-ti .jim-iphone-ti_mask { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/dategradient.png'); }
+
+.iphone6plus .landscape #jim-ios8-phone-ti #jim-iphone-ti_controls { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/date_topbar_landscape.png'); }
+.iphone6plus .landscape #jim-ios8-phone-ti .jim-iphone-ti_mask { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/dategradient_landscape.png'); }
+
+/* date & time values */
+.iphone6plus .portrait #jim-ios8-phone-dt #jim-iphone-dt_controls { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/date_topbar.png'); }
+.iphone6plus .portrait #jim-ios8-phone-dt .jim-iphone-dt_mask { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/portrait/dategradient.png'); }
+
+.iphone6plus .landscape #jim-ios8-phone-dt #jim-iphone-dt_controls { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/date_topbar_landscape.png'); }
+.iphone6plus .landscape #jim-ios8-phone-dt .jim-iphone-dt_mask { background-image:url('../../../../../images/mobile/ios/ios8/iphone6plus/landscape/dategradient_landscape.png'); }
