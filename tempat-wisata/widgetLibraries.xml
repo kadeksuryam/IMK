@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgetLibraries>
+  <library>
+    <uuid>263f5950-38a3-4a45-8ce2-f8d551c841d7</uuid>
+    <name>Basic Widgets</name>
+  </library>
+  <library>
+    <uuid>16ed0e22-75e0-459e-aa12-1e1c596d67c7</uuid>
+    <name>iOS Components</name>
+  </library>
+  <library>
+    <uuid>15ed0e22-75e0-459e-aa12-1e1c596d67c9</uuid>
+    <name>iOS Icons</name>
+  </library>
+</widgetLibraries>

@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>1</folderPosition>
+  <name>Detail Tempat Wisata - Borobudur</name>
+  <code>11dc329a-4a01-417f-ae92-f0530110c36c</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>30/10/2021 12:50:54</date>
+  <note />
+  <legend-item>None</legend-item>
+  <pageAlignment>LEFT</pageAlignment>
+  <device>iphone_8_plus</device>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <width>414.0</width>
+  <height>736.0</height>
+  <guides />
+  <item-group id="830a86d9-04f3-46d5-907c-7e0fcf99b885" visible="true">
+    <group-container id="44abf44e-6552-4032-b21f-5d0d6a245378" hidden="false" onTop="false" visible="true">
+      <tabbedBox id="3959be20-602e-4c09-97f8-4d13e98b9eb5" default="0" selected="0" content-editable="false" hidden="false" onTop="false" visible="true">
+        <tab id="4632633e-6209-43f6-9633-b6c7819517ea" identifier="81bfc490-97bc-4e6c-9514-ea767add61bd" hScroll="0" vScroll="0" visible="true">
+          <name />
+          <userID>Panel 1</userID>
+          <modelID>Panel_1</modelID>
+          <item-group id="ddb8c6db-e096-45fc-96ee-0033c3581c4c" visible="true">
+            <group-container id="08be462f-e005-423a-ad5a-5fa156e3ad4d" hidden="false" onTop="false" visible="true">
+              <tabbedBox id="fdae2c4d-9f53-4942-8aaa-1212a7e3defd" default="0" selected="0" content-editable="false" hidden="false" onTop="false" visible="true">
+                <tab id="59f8af1e-86a9-4966-927e-006d5020f1e6" identifier="92944543-5397-41f3-8e75-32b2cccca863" hScroll="2" vScroll="0" visible="true">
+                  <name />
+                  <userID>Panel 1</userID>
+                  <modelID>Panel_2</modelID>
+                  <item-group id="05018e1c-480c-4559-a599-ce1d384236eb" visible="true">
+                    <image id="0182a376-8ae5-46f5-815f-4eed7b4fbfb5" hidden="false" onTop="false" visible="true">
+                      <image-name>7d5392b6-bce1-4d08-92ec-daeca65e2e9a.png</image-name>
+                      <original-name>JP_Clipboard_Image.png</original-name>
+                      <style name="LnFImage">
+                        <DimensionStyle width="367.00000000000034" height="236.4194063904539" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                        <PositioningStyle left="-0.3312555552334402" top="-1.065068669567495" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                        <TransparencyStyle value="0" />
+                        <RotationStyle angle="0.0" />
+                        <ShadowStyle>
+                          <Box enable="false" />
+                        </ShadowStyle>
+                        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+                        <MarginStyle top="0" left="0" bottom="0" right="0" />
+                      </style>
+                      <image-flip horizontal="false" vertical="false" />
+                      <userID>Image 2</userID>
+                      <isDefault>false</isDefault>
+                      <modelID>Image_15</modelID>
+                    </image>
+                    <image id="4208d65d-ebbf-478d-969d-e116e470d1dc" hidden="false" onTop="false" visible="true">
+                      <image-name>208b663e-5534-44a1-8cae-2b804661da57.png</image-name>
+                      <original-name>JP_Clipboard_Image.png</original-name>
+                      <style name="LnFImage">
+                        <DimensionStyle width="362.4999999999999" height="236.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                        <PositioningStyle left="362.1687444447667" top="-0.855365474340033" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                        <TransparencyStyle value="0" />
+                        <RotationStyle angle="0.0" />
+                        <ShadowStyle>
+                          <Box enable="false" />
+                        </ShadowStyle>
+                        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+                        <MarginStyle top="0" left="0" bottom="0" right="0" />
+                      </style>
+                      <image-flip horizontal="false" vertical="false" />
+                      <userID>Image 1</userID>
+                      <isDefault>false</isDefault>
+                      <modelID>Image_1</modelID>
+                    </image>
+                    <image id="461137f7-86ae-459d-86c5-7de5657f7c83" hidden="false" onTop="false" visible="true">
+                      <image-name>bf89aba9-89e0-4827-8b3c-d70cc19c628c.png</image-name>
+                      <original-name>JP_Clipboard_Image.png</original-name>
+                      <style name="LnFImage">
+                        <DimensionStyle width="397.9999999999999" height="232.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                        <PositioningStyle left="724.6687444447659" top="2.144634525660365" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                        <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                        <TransparencyStyle value="0" />
+                        <RotationStyle angle="0.0" />
+                        <ShadowStyle>
+                          <Box enable="false" />
+                        </ShadowStyle>
+                        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b0a" hasColor="false" />
+                        <MarginStyle top="0" left="0" bottom="0" right="0" />
+                      </style>
+                      <image-flip horizontal="false" vertical="false" />
+                      <userID>Image 3</userID>
+                      <isDefault>false</isDefault>
+                      <modelID>Image_2</modelID>
+                    </image>
+                    <style name="LnFTab">
+                      <DimensionStyle width="387.4999999999999" height="241.70139968895774" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                      <PositioningStyle left="12.999999999999488" top="77.85536547433901" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TransparencyStyle value="0" />
+                      <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" majorSpacing="0" minorSpacing="0" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                      </ShadowStyle>
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                  </item-group>
+                </tab>
+                <style name="LnFTabbedBox">
+                  <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                  <PositioningStyle left="12.999999999999488" top="77.85536547433901" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                  <RotationStyle angle="0.0" />
+                </style>
+                <info>Dynamic Panel</info>
+                <userID>Dynamic Panel</userID>
+                <isDefault>false</isDefault>
+                <modelID>Dynamic_Panel</modelID>
+              </tabbedBox>
+              <rich-text id="439b924c-6d37-4330-8ce9-f73d7eb56798" hidden="false" onTop="false" visible="true">
+                <text>CANDI BOROBUDUR</text>
+                <style name="LnFRichText">
+                  <DimensionStyle width="202.0927734375" height="29.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" autofit="true" />
+                  <PositioningStyle left="105.99999999999977" top="22.000000000000043" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                  <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                  <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                  <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+                  <FontStyle size="16.5" height="0">
+                    <family>Roboto</family>
+                    <style name="Bold" weight="700" italic="normal" />
+                    <evc-file>Roboto-Bold</evc-file>
+                  </FontStyle>
+                  <TransparencyStyle value="0" />
+                  <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                  <RotationStyle angle="0.0" />
+                  <ShadowStyle>
+                    <Box enable="false" />
+                    <Text enable="false" />
+                  </ShadowStyle>
+                  <MarginStyle top="0" left="0" bottom="0" right="0" />
+                </style>
+                <rich-text-range-list>
+                  <text-range text-range-start="0" text-range-end="15">
+                    <style name="LnFTextRange">
+                      <FontStyle size="16.5" height="0">
+                        <family>Roboto</family>
+                        <style name="Bold" weight="700" italic="normal" />
+                        <evc-file>Roboto-Bold</evc-file>
+                      </FontStyle>
+                      <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                    </style>
+                  </text-range>
+                </rich-text-range-list>
+                <info>Text</info>
+                <userID>CANDI BOROBUDUR</userID>
+                <modelID>Paragraph</modelID>
+              </rich-text>
+              <group-container id="6dd6550d-ded0-43ad-9bcd-294a92f5917f" hidden="false" onTop="false" visible="true">
+                <group-container id="13b0fa1b-e6f4-40e8-ab0c-4dea38b4bf6c" hidden="false" onTop="false" visible="true">
+                  <image id="30bc4aaa-e067-46b8-8dea-039d095f8959" hidden="false" onTop="false" visible="true">
+                    <image-name type="svg" preserveRatio="false">29587da6-02c7-450b-823e-b3349520587a-#FACA51.png</image-name>
+                    <original-name>4ea98a6e-8c91-407c-b0a4-65b264ac6245-#FACA51.png</original-name>
+                    <style name="LnFImage">
+                      <DimensionStyle width="17.86676719150637" height="17.866767191506256" widthType="px" heightType="px" lockWidth="false" lockHeight="false" lockAspect="VERTICAL_LOCK" />
+                      <PositioningStyle left="145.99999999999932" top="51.451010886469795" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TransparencyStyle value="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                      </ShadowStyle>
+                      <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <image-flip horizontal="false" vertical="false" />
+                    <info>Star</info>
+                    <userID>star-1</userID>
+                    <isDefault>false</isDefault>
+                    <modelID>Image_16</modelID>
+                  </image>
+                  <image id="41a1abef-3cb4-4869-b797-3e613aa6cec6" hidden="false" onTop="false" visible="true">
+                    <image-name type="svg" preserveRatio="false">2489c976-6924-48cd-b9c2-060abe88ea77-#FACA51.png</image-name>
+                    <original-name>dbd26200-915c-43b4-9a35-8fc9a87525cf-#FACA51.png</original-name>
+                    <style name="LnFImage">
+                      <DimensionStyle width="17.866767191506256" height="17.866767191506256" widthType="px" heightType="px" lockWidth="false" lockHeight="false" lockAspect="VERTICAL_LOCK" />
+                      <PositioningStyle left="162.99999999999972" top="51.451010886469795" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TransparencyStyle value="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                      </ShadowStyle>
+                      <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <image-flip horizontal="false" vertical="false" />
+                    <info>Star</info>
+                    <userID>star-1_1</userID>
+                    <isDefault>false</isDefault>
+                    <modelID>Image_17</modelID>
+                  </image>
+                  <image id="703bb5e0-d133-4061-aa31-c29e3b5cddd6" hidden="false" onTop="false" visible="true">
+                    <image-name type="svg" preserveRatio="false">ff8e10a9-827c-4dec-816e-fbb3b7e6f55f-#FACA51.png</image-name>
+                    <original-name>2b63b558-4dcb-4818-9bde-0dcd78e58b6d-#FACA51.png</original-name>
+                    <style name="LnFImage">
+                      <DimensionStyle width="17.866767191506028" height="17.866767191506256" widthType="px" heightType="px" lockWidth="false" lockHeight="false" lockAspect="VERTICAL_LOCK" />
+                      <PositioningStyle left="179.9999999999995" top="51.451010886469795" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TransparencyStyle value="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                      </ShadowStyle>
+                      <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <image-flip horizontal="false" vertical="false" />
+                    <info>Star</info>
+                    <userID>star-1_2</userID>
+                    <isDefault>false</isDefault>
+                    <modelID>Image_18</modelID>
+                  </image>
+                  <image id="373607a6-b7f7-43ea-8def-b9ecaadd4155" hidden="false" onTop="false" visible="true">
+                    <image-name type="svg" preserveRatio="false">0ddd331e-ba7a-43fe-a1dc-b9a499b812f0-#FACA51.png</image-name>
+                    <original-name>3487394f-6e04-4793-80bd-98abe2315647-#FACA51.png</original-name>
+                    <style name="LnFImage">
+                      <DimensionStyle width="17.866767191506256" height="17.866767191506256" widthType="px" heightType="px" lockWidth="false" lockHeight="false" lockAspect="VERTICAL_LOCK" />
+                      <PositioningStyle left="195.9999999999996" top="51.451010886469795" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TransparencyStyle value="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                      </ShadowStyle>
+                      <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <image-flip horizontal="false" vertical="false" />
+                    <info>Star</info>
+                    <userID>star-1_3</userID>
+                    <isDefault>false</isDefault>
+                    <modelID>Image_19</modelID>
+                  </image>
+                  <image id="0acde073-1ab2-46cd-9287-2becaf4cc4b4" hidden="false" onTop="false" visible="true">
+                    <image-name type="svg" preserveRatio="false">b20c1d48-af1b-4a51-955a-19a6d6ce6003-#FACA51.png</image-name>
+                    <original-name>f7775592-50ca-4e7e-8ef5-78993b8a4329-#FACA51.png</original-name>
+                    <style name="LnFImage">
+                      <DimensionStyle width="17.866767191506256" height="17.8667671915062" widthType="px" heightType="px" lockWidth="false" lockHeight="false" lockAspect="VERTICAL_LOCK" />
+                      <PositioningStyle left="213.99999999999937" top="51.451010886469824" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TransparencyStyle value="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                      </ShadowStyle>
+                      <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <image-flip horizontal="false" vertical="false" />
+                    <info>Star</info>
+                    <userID>star-1_4</userID>
+                    <isDefault>false</isDefault>
+                    <modelID>Image_20</modelID>
+                  </image>
+                  <style name="LnFGroup">
+                    <DimensionStyle width="87.0" height="18.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" />
+                    <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                    <RotationStyle angle="0.0" />
+                  </style>
+                  <info>Stars rating</info>
+                  <userID>stars</userID>
+                  <isDefault>false</isDefault>
+                  <modelID>Group_10</modelID>
+                </group-container>
+                <rich-text id="a5946dd8-696b-4e04-ad27-6969b1001a17" hidden="false" onTop="false" visible="true">
+                  <text>4.7</text>
+                  <style name="LnFTextBox">
+                    <DimensionStyle width="22.296875" height="21.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" autofit="true" />
+                    <PositioningStyle left="244.99999999999977" top="51.45101088646965" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                    <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                    <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                    <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                    <FontStyle size="12.0" height="0">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TransparencyStyle value="0" />
+                    <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                    <RotationStyle angle="0.0" />
+                    <ShadowStyle>
+                      <Box enable="false" />
+                      <Text enable="false" />
+                    </ShadowStyle>
+                    <MarginStyle top="0" left="0" bottom="0" right="0" />
+                  </style>
+                  <rich-text-range-list>
+                    <text-range text-range-start="0" text-range-end="3">
+                      <style name="LnFTextRange">
+                        <FontStyle size="12.0" height="0">
+                          <family>Roboto</family>
+                          <style name="Regular" weight="400" italic="normal" />
+                          <evc-file>Roboto-Regular</evc-file>
+                        </FontStyle>
+                        <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                      </style>
+                    </text-range>
+                  </rich-text-range-list>
+                  <userID>by_2</userID>
+                  <isDefault>false</isDefault>
+                  <modelID>Paragraph_10</modelID>
+                </rich-text>
+                <style name="LnFGroup">
+                  <DimensionStyle width="306.0" height="43.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                  <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                  <RotationStyle angle="0.0" />
+                </style>
+                <userID>ratingGroup</userID>
+                <isDefault>false</isDefault>
+                <modelID>Group_9</modelID>
+              </group-container>
+              <rectangle id="51e642c5-6f08-47ba-bb1f-b901bee27ce3" auto-fit="false" hidden="false" onTop="false" visible="true">
+                <text />
+                <style name="LnFRectangle">
+                  <DimensionStyle width="387.49999999999966" height="295.6329227978856" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                  <PositioningStyle left="12.999999999999602" top="338.85225505443134" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                  <BackgroundStyle type="color" value="217r217g217b0a" disabledColor="false" />
+                  <BorderStyle topRadius="22" rightRadius="22" bottomRadius="22" leftRadius="22" leftColor="64r64g64b0a" topColor="64r64g64b0a" rightColor="64r64g64b0a" bottomColor="64r64g64b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                  <TextStyle color="51r51g51b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                  <FontStyle size="10.0" height="17">
+                    <family>Arial</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                  </FontStyle>
+                  <TransparencyStyle value="0" />
+                  <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                  <RotationStyle angle="0.0" />
+                  <ShadowStyle>
+                    <Box enable="false" />
+                    <Text enable="false" />
+                  </ShadowStyle>
+                  <MarginStyle top="0" left="0" bottom="0" right="0" />
+                </style>
+                <rich-text-range-list>
+                  <text-range text-range-start="0" text-range-end="0">
+                    <style name="LnFTextRange">
+                      <FontStyle size="10.0" height="17">
+                        <family>Arial</family>
+                        <style name="Regular" weight="400" italic="normal" />
+                      </FontStyle>
+                      <TextStyle color="51r51g51b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                    </style>
+                  </text-range>
+                </rich-text-range-list>
+                <info>Rectangle</info>
+                <userID>Rectangle</userID>
+                <isDefault>false</isDefault>
+                <modelID>Rectangle</modelID>
+              </rectangle>
+              <group-container id="d24c4bee-362e-4867-89ec-a0a7e3501714" hidden="false" onTop="false" visible="true">
+                <group-container id="a2b2143d-b7d2-475e-a652-b2f7062566b7" hidden="false" onTop="false" visible="true">
+                  <input-text id="04fe995b-02ee-49ff-9e73-93dc6f01cd24" writable="false" hidden="false" onTop="false" visible="true">
+                    <style name="LnFAttributeForm">
+                      <DimensionStyle width="93.59903381642488" height="131.50834126482948" widthType="percentage" heightType="px" lockWidth="false" lockHeight="false" />
+                      <PositioningStyle left="12.999999999999915" top="374.6935395660466" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="200r200g200b0a" topColor="200r200g200b0a" rightColor="200r200g200b0a" bottomColor="200r200g200b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TextStyle color="114r114g114b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+                      <FontStyle size="11.0" height="15">
+                        <family>Roboto</family>
+                        <style name="Light" weight="200" italic="normal" />
+                        <evc-file>Roboto-Light</evc-file>
+                      </FontStyle>
+                      <TransparencyStyle value="0" />
+                      <PaddingStyle top="10" left="15" bottom="0" right="10" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                        <Text enable="false" />
+                      </ShadowStyle>
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <defaultValue />
+                    <type>textarea</type>
+                    <placeholder color="161r161g161b0a">Candi Borobudur merupakan sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Borobudur adalah candi atau kuil Buddha terbesar di dunia sekaligus salah satu monumen Buddha terbesar di dunia.</placeholder>
+                    <info>Text area</info>
+                    <userID>Text-area</userID>
+                    <isDefault>false</isDefault>
+                    <modelID>Text-area</modelID>
+                  </input-text>
+                  <rich-text id="3b2e359d-5601-4b87-ada2-2789793ca2c7" hidden="false" onTop="false" visible="true">
+                    <text>Tentang Tempat Wisata Ini</text>
+                    <style name="LnFRichText">
+                      <DimensionStyle width="160.80079650878906" height="17.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" autofit="true" />
+                      <PositioningStyle left="23.999999999999545" top="350.05265646431167" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+                      <FontStyle size="10.0" height="0">
+                        <family>Roboto</family>
+                        <style name="Bold" weight="700" italic="normal" />
+                        <evc-file>Roboto-Bold</evc-file>
+                      </FontStyle>
+                      <TransparencyStyle value="0" />
+                      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                        <Text enable="false" />
+                      </ShadowStyle>
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <rich-text-range-list>
+                      <text-range text-range-start="0" text-range-end="25">
+                        <style name="LnFTextRange">
+                          <FontStyle size="10.0" height="0">
+                            <family>Roboto</family>
+                            <style name="Bold" weight="700" italic="normal" />
+                            <evc-file>Roboto-Bold</evc-file>
+                          </FontStyle>
+                          <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                        </style>
+                      </text-range>
+                    </rich-text-range-list>
+                    <info>Text</info>
+                    <userID>Tentang Tempat Wisata Ini</userID>
+                    <modelID>Paragraph_3</modelID>
+                  </rich-text>
+                  <rich-text id="e35dcd52-ab1b-4b49-a98d-d958c0977e73" hidden="false" onTop="false" visible="true">
+                    <text>Jumlah Pengunjung per Hari
+4000 orang</text>
+                    <style name="LnFRichText">
+                      <DimensionStyle width="170.9244842529297" height="34.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" autofit="true" />
+                      <PositioningStyle left="23.999999999999773" top="514.6985571895434" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+                      <FontStyle size="10.0" height="0">
+                        <family>Roboto</family>
+                        <style name="Bold" weight="700" italic="normal" />
+                        <evc-file>Roboto-Bold</evc-file>
+                      </FontStyle>
+                      <TransparencyStyle value="0" />
+                      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                        <Text enable="false" />
+                      </ShadowStyle>
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <rich-text-range-list>
+                      <text-range text-range-start="0" text-range-end="27">
+                        <style name="LnFTextRange">
+                          <FontStyle size="10.0" height="0">
+                            <family>Roboto</family>
+                            <style name="Bold" weight="700" italic="normal" />
+                            <evc-file>Roboto-Bold</evc-file>
+                          </FontStyle>
+                          <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                        </style>
+                      </text-range>
+                      <text-range text-range-start="27" text-range-end="37">
+                        <style name="LnFTextRange">
+                          <FontStyle size="10.0" height="0">
+                            <family>Roboto</family>
+                            <style name="Regular" weight="400" italic="normal" />
+                            <evc-file>Roboto-Regular</evc-file>
+                          </FontStyle>
+                          <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                        </style>
+                      </text-range>
+                    </rich-text-range-list>
+                    <info>Text</info>
+                    <userID>Jumlah Pengunjung per Har</userID>
+                    <modelID>Paragraph_4</modelID>
+                  </rich-text>
+                  <rich-text id="04697131-e7f0-4350-92c2-caa86109b8cc" hidden="false" onTop="false" visible="true">
+                    <text>Harga Tiket
+Tiket Dewasa: Rp50.000
+Tiket Anak (3-10 tahun): Rp25.000
+</text>
+                    <style name="LnFRichText">
+                      <DimensionStyle width="203.9453125" height="68.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" autofit="true" />
+                      <PositioningStyle left="23.999999999999886" top="565.3203732503877" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+                      <FontStyle size="10.0" height="0">
+                        <family>Roboto</family>
+                        <style name="Bold" weight="700" italic="normal" />
+                        <evc-file>Roboto-Bold</evc-file>
+                      </FontStyle>
+                      <TransparencyStyle value="0" />
+                      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                        <Text enable="false" />
+                      </ShadowStyle>
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <rich-text-range-list>
+                      <text-range text-range-start="0" text-range-end="12">
+                        <style name="LnFTextRange">
+                          <FontStyle size="10.0" height="0">
+                            <family>Roboto</family>
+                            <style name="Bold" weight="700" italic="normal" />
+                            <evc-file>Roboto-Bold</evc-file>
+                          </FontStyle>
+                          <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                        </style>
+                      </text-range>
+                      <text-range text-range-start="12" text-range-end="69">
+                        <style name="LnFTextRange">
+                          <FontStyle size="10.0" height="0">
+                            <family>Roboto</family>
+                            <style name="Regular" weight="400" italic="normal" />
+                            <evc-file>Roboto-Regular</evc-file>
+                          </FontStyle>
+                          <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                        </style>
+                      </text-range>
+                    </rich-text-range-list>
+                    <info>Text</info>
+                    <userID>Harga TiketTiket Dewasa: </userID>
+                    <modelID>Paragraph_7</modelID>
+                  </rich-text>
+                  <style name="LnFGroup">
+                    <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                    <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                    <RotationStyle angle="0.0" />
+                  </style>
+                  <userID>Group 2</userID>
+                  <isDefault>false</isDefault>
+                  <modelID>Group_4</modelID>
+                </group-container>
+                <group-container id="f646d1b2-abbf-45d4-a72e-182a4681d64d" hidden="false" onTop="false" visible="true">
+                  <rectangle id="b7f77c1c-1278-4870-895d-bcb9ad711bb7" auto-fit="false" hidden="false" onTop="false" visible="true">
+                    <text />
+                    <style name="LnFRectangle">
+                      <DimensionStyle width="87.00000000000011" height="29.45101088646959" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                      <PositioningStyle left="313.00000000000006" top="645.5489891135292" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BackgroundStyle type="color" value="222r221g221b0a" disabledColor="false" />
+                      <BorderStyle topRadius="14" rightRadius="14" bottomRadius="14" leftRadius="14" leftColor="64r64g64b0a" topColor="64r64g64b0a" rightColor="64r64g64b0a" bottomColor="64r64g64b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TextStyle color="51r51g51b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                      <FontStyle size="10.0" height="17">
+                        <family>Roboto</family>
+                        <style name="Bold" weight="700" italic="normal" />
+                        <evc-file>Roboto-Bold</evc-file>
+                      </FontStyle>
+                      <TransparencyStyle value="0" />
+                      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                        <Text enable="false" />
+                      </ShadowStyle>
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <rich-text-range-list>
+                      <text-range text-range-start="0" text-range-end="0">
+                        <style name="LnFTextRange">
+                          <FontStyle size="10.0" height="17">
+                            <family>Roboto</family>
+                            <style name="Bold" weight="700" italic="normal" />
+                            <evc-file>Roboto-Bold</evc-file>
+                          </FontStyle>
+                          <TextStyle color="51r51g51b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                        </style>
+                      </text-range>
+                    </rich-text-range-list>
+                    <info>Rectangle</info>
+                    <userID>Rectangle</userID>
+                    <isDefault>false</isDefault>
+                    <modelID>Rectangle_1</modelID>
+                  </rectangle>
+                  <image id="327b6e38-774d-4938-9e0d-7c75afeca254" hidden="false" onTop="false" visible="true">
+                    <image-name type="svg" preserveRatio="false">13dd36a5-ec9a-4e20-b792-a8d7673066ca-#3E7486.png</image-name>
+                    <original-name>8d116d3f-d5f6-42de-aba2-24772ca523ef-#A9A9A9.png</original-name>
+                    <style name="LnFImage">
+                      <DimensionStyle width="19.0" height="19.295489891135162" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                      <PositioningStyle left="318.0" top="650.6267496111966" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TransparencyStyle value="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                      </ShadowStyle>
+                      <SVGBackgroundStyle isSVG="true" bgColor="62r116g134b0a" hasColor="true" />
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <image-flip horizontal="false" vertical="false" />
+                    <info>Arrow Right</info>
+                    <userID>Image_12</userID>
+                    <isDefault>false</isDefault>
+                    <modelID>Image_12</modelID>
+                  </image>
+                  <rich-text id="57890243-a6bc-4f24-9b83-4d19e494bc83" hidden="false" onTop="false" visible="true">
+                    <text>Ulasan</text>
+                    <style name="LnFRichText">
+                      <DimensionStyle width="43.723960876464844" height="15.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" autofit="true" />
+                      <PositioningStyle left="346.9999999999998" top="652.6578538102631" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                      <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                      <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+                      <FontStyle size="10.0" height="0">
+                        <family>Arial</family>
+                        <style name="Bold" weight="700" italic="normal" />
+                      </FontStyle>
+                      <TransparencyStyle value="0" />
+                      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                      <RotationStyle angle="0.0" />
+                      <ShadowStyle>
+                        <Box enable="false" />
+                        <Text enable="false" />
+                      </ShadowStyle>
+                      <MarginStyle top="0" left="0" bottom="0" right="0" />
+                    </style>
+                    <rich-text-range-list>
+                      <text-range text-range-start="0" text-range-end="6">
+                        <style name="LnFTextRange">
+                          <FontStyle size="10.0" height="0">
+                            <family>Arial</family>
+                            <style name="Bold" weight="700" italic="normal" />
+                          </FontStyle>
+                          <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                        </style>
+                      </text-range>
+                    </rich-text-range-list>
+                    <info>Text</info>
+                    <userID>Ulasan</userID>
+                    <modelID>Paragraph_5</modelID>
+                  </rich-text>
+                  <style name="LnFGroup">
+                    <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                    <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                    <RotationStyle angle="0.0" />
+                  </style>
+                  <userID>Group 1</userID>
+                  <isDefault>false</isDefault>
+                  <modelID>Group_5</modelID>
+                </group-container>
+                <style name="LnFGroup">
+                  <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                  <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                  <RotationStyle angle="0.0" />
+                </style>
+                <userID>Group 3</userID>
+                <isDefault>false</isDefault>
+                <modelID>Group_3</modelID>
+              </group-container>
+              <style name="LnFGroup">
+                <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                <RotationStyle angle="0.0" />
+              </style>
+              <userID>Group 5</userID>
+              <isDefault>false</isDefault>
+              <modelID>Group_2</modelID>
+            </group-container>
+            <style name="LnFTab">
+              <DimensionStyle width="413.99999999999955" height="789.6005546489444" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+              <PositioningStyle left="0.0" top="91.00000000000024" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+              <TransparencyStyle value="0" />
+              <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" majorSpacing="0" minorSpacing="0" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+            </style>
+          </item-group>
+        </tab>
+        <style name="LnFTabbedBox">
+          <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="91.00000000000024" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <RotationStyle angle="0.0" />
+        </style>
+        <info>Dynamic Panel</info>
+        <userID>Content Panel</userID>
+        <isDefault>false</isDefault>
+        <modelID>Dynamic_Panel_1</modelID>
+      </tabbedBox>
+      <rich-text id="7bbce913-47d8-44dd-9226-9d6df6f1288e" hidden="false" onTop="false" visible="true">
+        <text>Beli Tiket</text>
+        <style name="LnFRectangle">
+          <DimensionStyle width="125.99999999999997" height="32.999999999999886" widthType="px" heightType="px" lockWidth="false" lockHeight="true" />
+          <PositioningStyle left="149.4999999999999" top="832.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+          <BorderStyle topRadius="16" rightRadius="16" bottomRadius="16" leftRadius="16" leftColor="21r126g251b0a" topColor="21r126g251b0a" rightColor="21r126g251b0a" bottomColor="21r126g251b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="false" />
+          <TextStyle color="0r0g0b0a" hAlign="center" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+          <FontStyle size="11.0" height="0">
+            <family>Roboto</family>
+            <style name="Regular" weight="400" italic="normal" />
+            <evc-file>Roboto-Regular</evc-file>
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="3" left="2" bottom="2" right="2" />
+          <RotationStyle angle="0.0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+          <MarginStyle top="0" left="0" bottom="0" right="0" />
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="10">
+            <style name="LnFTextRange">
+              <FontStyle size="11.0" height="0">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <info>Small button blue</info>
+        <userID>Beli Tiket</userID>
+        <modelID>Button-blue</modelID>
+      </rich-text>
+      <tabbedBox id="e5345248-0353-421a-bf02-8f1da4e1dd81" default="0" selected="0" content-editable="false" hidden="false" onTop="false" visible="true">
+        <tab id="ef060196-a16c-4846-aaed-c950d1cd86ee" identifier="b5221310-cf8d-4222-817e-191ea78c5386" hScroll="0" vScroll="0" visible="true">
+          <name />
+          <userID>Panel 1</userID>
+          <modelID>Panel_3</modelID>
+          <item-group id="6105cc7c-d4cb-47f5-9f68-16d99f3bc4c3" visible="true">
+            <group-container id="e3fe5dbf-d26d-4279-8815-8a415f54fd2b" hidden="false" onTop="false" visible="true">
+              <rectangle id="12d06c1e-0965-4a10-a404-5742c3680014" auto-fit="false" hidden="false" onTop="false" visible="true">
+                <text />
+                <style name="LnFRectangle">
+                  <DimensionStyle width="100.0" height="88.0" widthType="percentage" heightType="px" lockWidth="false" lockHeight="true" />
+                  <PositioningStyle left="0.0" top="0.0" pinLeft="beginning" pinTop="beginning" lockTop="false" lockLeft="false" />
+                  <BackgroundStyle type="color" value="246r247g248b0a" disabledColor="false" />
+                  <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="219r219g219b0a" topColor="219r219g219b0a" rightColor="219r219g219b0a" bottomColor="219r219g219b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="false" />
+                  <TextStyle color="64r64g64b0a" hAlign="center" vAlign="center" decoration="none" line-height="18" letter-spacing="0.0" />
+                  <FontStyle size="10.0" height="13">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TransparencyStyle value="0" />
+                  <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                  <RotationStyle angle="0.0" />
+                  <ShadowStyle>
+                    <Box enable="false" />
+                    <Text enable="false" />
+                  </ShadowStyle>
+                  <MarginStyle top="0" left="0" bottom="0" right="0" />
+                </style>
+                <rich-text-range-list>
+                  <text-range text-range-start="0" text-range-end="0">
+                    <style name="LnFTextRange">
+                      <FontStyle size="10.0" height="0">
+                        <family>Roboto</family>
+                        <style name="Regular" weight="400" italic="normal" />
+                        <evc-file>Roboto-Regular</evc-file>
+                      </FontStyle>
+                      <TextStyle color="64r64g64b0a" hAlign="center" vAlign="center" decoration="none" line-height="18" letter-spacing="0.0" />
+                    </style>
+                  </text-range>
+                </rich-text-range-list>
+                <userID>Rectangle_11</userID>
+                <isDefault>false</isDefault>
+                <modelID>Rectangle_11</modelID>
+              </rectangle>
+              <rich-text id="6edfaf53-9238-4c7f-a9e9-eb3402da9eb6" hidden="false" onTop="false" visible="true">
+                <text>Detail Tempat Wisata</text>
+                <style name="LnFRichText">
+                  <DimensionStyle width="180.99999999999983" height="44.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                  <PositioningStyle left="23.9999999999998" top="53.499999999999915" pinLeft="center" pinTop="beginning" lockTop="false" lockLeft="false" />
+                  <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                  <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                  <TextStyle color="0r0g0b0a" hAlign="center" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+                  <FontStyle size="13.0" height="0">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TransparencyStyle value="0" />
+                  <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                  <RotationStyle angle="0.0" />
+                  <ShadowStyle>
+                    <Box enable="false" />
+                    <Text enable="false" />
+                  </ShadowStyle>
+                  <MarginStyle top="0" left="0" bottom="0" right="0" />
+                </style>
+                <rich-text-range-list>
+                  <text-range text-range-start="0" text-range-end="20">
+                    <style name="LnFTextRange">
+                      <FontStyle size="13.0" height="0">
+                        <family>Roboto</family>
+                        <style name="Regular" weight="400" italic="normal" />
+                        <evc-file>Roboto-Regular</evc-file>
+                      </FontStyle>
+                      <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                    </style>
+                  </text-range>
+                </rich-text-range-list>
+                <userID>Detail Tempat Wisata</userID>
+                <modelID>Paragraph_16</modelID>
+              </rich-text>
+              <group-container id="a05e1b2c-e11e-40ee-a8b5-aa3801dd9f43" hidden="false" onTop="false" visible="true">
+                <image id="dc40b34d-b320-445f-b05c-bf1eef54a583" hidden="false" onTop="false" visible="true">
+                  <image-name type="svg" preserveRatio="false">b0881d69-67c5-4148-960e-f910caacc6db.png</image-name>
+                  <original-name>63c40829-2a6d-45e0-8cf6-443abb31e724.png</original-name>
+                  <style name="LnFImage">
+                    <DimensionStyle width="13.0" height="21.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" />
+                    <PositioningStyle left="12.0" top="55.0" pinLeft="beginning" pinTop="beginning" lockTop="true" lockLeft="true" />
+                    <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                    <TransparencyStyle value="0" />
+                    <RotationStyle angle="0.0" />
+                    <ShadowStyle>
+                      <Box enable="false" />
+                    </ShadowStyle>
+                    <SVGBackgroundStyle isSVG="true" bgColor="0r0g0b0a" hasColor="false" />
+                    <MarginStyle top="0" left="0" bottom="0" right="0" />
+                  </style>
+                  <image-flip horizontal="false" vertical="false" />
+                  <userID>Image_27</userID>
+                  <isDefault>false</isDefault>
+                  <modelID>Image_27</modelID>
+                </image>
+                <rich-text id="552a4e79-1a64-4579-b245-cfe2ee48a867" hidden="false" onTop="false" visible="true">
+                  <text>Back</text>
+                  <style name="LnFRichText">
+                    <DimensionStyle width="40.999999999999986" height="21.0" widthType="px" heightType="px" lockWidth="false" lockHeight="true" />
+                    <PositioningStyle left="30.0" top="53.99999999999997" pinLeft="beginning" pinTop="beginning" lockTop="false" lockLeft="false" />
+                    <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+                    <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+                    <TextStyle color="0r122g255b0a" hAlign="right" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+                    <FontStyle size="12.0" height="0">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TransparencyStyle value="0" />
+                    <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                    <RotationStyle angle="0.0" />
+                    <ShadowStyle>
+                      <Box enable="false" />
+                      <Text enable="false" />
+                    </ShadowStyle>
+                    <MarginStyle top="0" left="0" bottom="0" right="0" />
+                  </style>
+                  <rich-text-range-list>
+                    <text-range text-range-start="0" text-range-end="4">
+                      <style name="LnFTextRange">
+                        <FontStyle size="12.0" height="0">
+                          <family>Roboto</family>
+                          <style name="Regular" weight="400" italic="normal" />
+                          <evc-file>Roboto-Regular</evc-file>
+                        </FontStyle>
+                        <TextStyle color="0r122g255b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+                      </style>
+                    </text-range>
+                  </rich-text-range-list>
+                  <userID>Back</userID>
+                  <modelID>Paragraph_17</modelID>
+                </rich-text>
+                <style name="LnFGroup">
+                  <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+                  <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                  <RotationStyle angle="0.0" />
+                </style>
+                <userID>Back Button</userID>
+                <isDefault>false</isDefault>
+                <modelID>Group_7</modelID>
+              </group-container>
+              <style name="LnFGroup">
+                <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="true" />
+                <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+                <RotationStyle angle="0.0" />
+              </style>
+              <info>Top bar 1</info>
+              <userID>Header</userID>
+              <isDefault>false</isDefault>
+              <modelID>Top_Bar-1</modelID>
+            </group-container>
+            <style name="LnFTab">
+              <DimensionStyle width="413.99999999999955" height="92.00000000000004" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+              <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="beginning" lockTop="false" lockLeft="false" />
+              <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+              <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+              <TransparencyStyle value="0" />
+              <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" majorSpacing="0" minorSpacing="0" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+              <MarginStyle top="0" left="0" bottom="0" right="0" />
+            </style>
+          </item-group>
+        </tab>
+        <style name="LnFTabbedBox">
+          <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="beginning" lockTop="false" lockLeft="false" />
+          <RotationStyle angle="0.0" />
+        </style>
+        <info>Dynamic Panel</info>
+        <userID>Header Panel</userID>
+        <isDefault>false</isDefault>
+        <modelID>Dynamic_Panel_2</modelID>
+      </tabbedBox>
+      <group-container id="fa3a1698-f496-4654-bdf4-ab266d24601c" hidden="false" onTop="false" visible="true">
+        <input-text id="c6fa3fae-7b0b-4f43-971b-4b568406cb0f" writable="true" hidden="false" onTop="false" visible="true">
+          <style name="LnFAttributeForm">
+            <DimensionStyle width="203.0" height="26.999999999999773" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+            <PositioningStyle left="111.0" top="794.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="226r226g226b0a" disabledColor="false" />
+            <BorderStyle topRadius="13" rightRadius="13" bottomRadius="13" leftRadius="13" leftColor="200r200g200b0a" topColor="200r200g200b0a" rightColor="200r200g200b0a" bottomColor="200r200g200b0a" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="false" />
+            <TextStyle color="0r0g0b0a" hAlign="left" vAlign="center" decoration="none" line-height="17" letter-spacing="0.0" />
+            <FontStyle size="10.0" height="13">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="5" bottom="0" right="0" />
+            <RotationStyle angle="0.0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+            <MarginStyle top="0" left="0" bottom="0" right="0" />
+          </style>
+          <defaultValue>1</defaultValue>
+          <type>number</type>
+          <placeholder color="180r180g180b0a" />
+          <userID>Input_1</userID>
+          <isDefault>false</isDefault>
+          <modelID>Input_2</modelID>
+        </input-text>
+        <rich-text id="b6e53b81-f24d-438e-8e17-f38cf43fde24" hidden="false" onTop="false" visible="true">
+          <text>Jumlah Pembelian Tiket</text>
+          <style name="LnFRichText">
+            <DimensionStyle width="151.9010467529297" height="15.0" widthType="px" heightType="px" lockWidth="true" lockHeight="true" autofit="true" />
+            <PositioningStyle left="143.00000000000003" top="771.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+            <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+            <BorderStyle topRadius="0" rightRadius="0" bottomRadius="0" leftRadius="0" leftColor="0r0g0b0a" topColor="0r0g0b0a" rightColor="0r0g0b0a" bottomColor="0r0g0b0a" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1.0" topWidth="1.0" rightWidth="1.0" bottomWidth="1.0" disabled="true" />
+            <TextStyle color="51r51g51b0a" hAlign="left" vAlign="left" decoration="none" line-height="0" letter-spacing="0.0" />
+            <FontStyle size="10.0" height="0">
+              <family>Arial</family>
+              <style name="Bold" weight="700" italic="normal" />
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="0" bottom="0" right="0" />
+            <RotationStyle angle="0.0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+            <MarginStyle top="0" left="0" bottom="0" right="0" />
+          </style>
+          <rich-text-range-list>
+            <text-range text-range-start="0" text-range-end="22">
+              <style name="LnFTextRange">
+                <FontStyle size="10.0" height="0">
+                  <family>Arial</family>
+                  <style name="Bold" weight="700" italic="normal" />
+                </FontStyle>
+                <TextStyle color="51r51g51b0a" hAlign="left" vAlign="center" decoration="none" line-height="0" letter-spacing="0.0" />
+              </style>
+            </text-range>
+          </rich-text-range-list>
+          <info>Text</info>
+          <userID>Jumlah Pembelian Tiket</userID>
+          <modelID>Paragraph_1</modelID>
+        </rich-text>
+        <style name="LnFGroup">
+          <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+          <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+          <RotationStyle angle="0.0" />
+        </style>
+        <userID>Group 6</userID>
+        <isDefault>false</isDefault>
+        <modelID>Group_6</modelID>
+      </group-container>
+      <style name="LnFGroup">
+        <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <RotationStyle angle="0.0" />
+      </style>
+      <userID>Detail</userID>
+      <isDefault>false</isDefault>
+      <modelID>Group_1</modelID>
+    </group-container>
+    <style name="LnFCanvas">
+      <DimensionStyle width="414.0" height="880.6005546489446" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+      <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+      <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="true" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="30bc4aaa-e067-46b8-8dea-039d095f8959" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>30bc4aaa-e067-46b8-8dea-039d095f8959</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+            </style>
+          </styleElement>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>703bb5e0-d133-4061-aa31-c29e3b5cddd6</item>
+              <item>41a1abef-3cb4-4869-b797-3e613aa6cec6</item>
+              <item>373607a6-b7f7-43ea-8def-b9ecaadd4155</item>
+              <item>0acde073-1ab2-46cd-9287-2becaf4cc4b4</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="204r204g204b0a" hasColor="true" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="41a1abef-3cb4-4869-b797-3e613aa6cec6" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>41a1abef-3cb4-4869-b797-3e613aa6cec6</item>
+              <item>30bc4aaa-e067-46b8-8dea-039d095f8959</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+            </style>
+          </styleElement>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>703bb5e0-d133-4061-aa31-c29e3b5cddd6</item>
+              <item>373607a6-b7f7-43ea-8def-b9ecaadd4155</item>
+              <item>0acde073-1ab2-46cd-9287-2becaf4cc4b4</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="204r204g204b0a" hasColor="true" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="703bb5e0-d133-4061-aa31-c29e3b5cddd6" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>703bb5e0-d133-4061-aa31-c29e3b5cddd6</item>
+              <item>41a1abef-3cb4-4869-b797-3e613aa6cec6</item>
+              <item>30bc4aaa-e067-46b8-8dea-039d095f8959</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+            </style>
+          </styleElement>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>373607a6-b7f7-43ea-8def-b9ecaadd4155</item>
+              <item>0acde073-1ab2-46cd-9287-2becaf4cc4b4</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="204r204g204b0a" hasColor="true" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="373607a6-b7f7-43ea-8def-b9ecaadd4155" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>703bb5e0-d133-4061-aa31-c29e3b5cddd6</item>
+              <item>41a1abef-3cb4-4869-b797-3e613aa6cec6</item>
+              <item>373607a6-b7f7-43ea-8def-b9ecaadd4155</item>
+              <item>30bc4aaa-e067-46b8-8dea-039d095f8959</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+            </style>
+          </styleElement>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>0acde073-1ab2-46cd-9287-2becaf4cc4b4</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="204r204g204b0a" hasColor="true" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="0acde073-1ab2-46cd-9287-2becaf4cc4b4" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>703bb5e0-d133-4061-aa31-c29e3b5cddd6</item>
+              <item>41a1abef-3cb4-4869-b797-3e613aa6cec6</item>
+              <item>0acde073-1ab2-46cd-9287-2becaf4cc4b4</item>
+              <item>373607a6-b7f7-43ea-8def-b9ecaadd4155</item>
+              <item>30bc4aaa-e067-46b8-8dea-039d095f8959</item>
+            </items>
+            <style>
+              <SVGBackgroundStyle isSVG="true" bgColor="250r202g81b0a" hasColor="true" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="b7f77c1c-1278-4870-895d-bcb9ad711bb7" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="5ff894a4-f0c7-48bf-8456-a752928b3dab">Review Tempat Wisata</screen>
+            <type>window</type>
+            <transition type="slideleft" duration="700" />
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="327b6e38-774d-4938-9e0d-7c75afeca254" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="5ff894a4-f0c7-48bf-8456-a752928b3dab">Review Tempat Wisata</screen>
+            <type>window</type>
+            <transition type="slideleft" duration="700" />
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="57890243-a6bc-4f24-9b83-4d19e494bc83" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="5ff894a4-f0c7-48bf-8456-a752928b3dab">Review Tempat Wisata</screen>
+            <type>window</type>
+            <transition type="slideleft" duration="700" />
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="7bbce913-47d8-44dd-9226-9d6df6f1288e" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction name</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>7bbce913-47d8-44dd-9226-9d6df6f1288e</item>
+            </items>
+            <style>
+              <TextStyle color="128r184g241b0a" />
+              <BorderStyle leftColor="128r184g241b0a" topColor="128r184g241b0a" rightColor="128r184g241b0a" bottomColor="128r184g241b0a" />
+            </style>
+          </styleElement>
+          <styleElement execType="timed" delayAction="300">
+            <items>
+              <item>7bbce913-47d8-44dd-9226-9d6df6f1288e</item>
+            </items>
+            <style>
+              <TextStyle color="21r126g251b0a" />
+              <BorderStyle leftColor="21r126g251b0a" topColor="21r126g251b0a" rightColor="21r126g251b0a" bottomColor="21r126g251b0a" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+      <case execType="serial" delayAction="0">
+        <description>Interaction 2</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="32cd541f-2a59-486d-995e-3a8cad2a163a">Pembayaran</screen>
+            <type>window</type>
+            <transition type="slideleft" duration="700" />
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="dc40b34d-b320-445f-b05c-bf1eef54a583" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="d12245cc-1680-458d-89dd-4f0d7fb22724">Tempat Wisata</screen>
+            <type>window</type>
+            <transition type="slideright" duration="700" />
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="552a4e79-1a64-4579-b245-cfe2ee48a867" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="d12245cc-1680-458d-89dd-4f0d7fb22724">Tempat Wisata</screen>
+            <type>window</type>
+            <transition type="slideright" duration="700" />
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="c6fa3fae-7b0b-4f43-971b-4b568406cb0f" trigger="onKeyUp">
+      <case execType="serial" delayAction="0">
+        <description>Interaction 1</description>
+        <key ctrl="false" shift="false" alt="false">10101010</key>
+        <block>
+          <eventCondition>
+            <Function name="Not">
+              <Function name="RegExp">
+                <Value type="mutable" mutableType="VALUE">
+                  <holderId>c6fa3fae-7b0b-4f43-971b-4b568406cb0f</holderId>
+                </Value>
+                <Value type="isNumber">
+                  <value>^[-+]?[0-9]*[\.|\,]?[0-9]+$</value>
+                </Value>
+              </Function>
+            </Function>
+          </eventCondition>
+          <valueElement type="calculated" execType="serial" delayAction="0">
+            <items>
+              <item>c6fa3fae-7b0b-4f43-971b-4b568406cb0f</item>
+            </items>
+            <Function name="Substring">
+              <Value type="mutable" mutableType="VALUE">
+                <holderId>c6fa3fae-7b0b-4f43-971b-4b568406cb0f</holderId>
+              </Value>
+              <Value type="textConstant">
+                <value>0</value>
+              </Value>
+              <Function name="Minus">
+                <Function name="Count">
+                  <Value type="mutable" mutableType="VALUE">
+                    <holderId>c6fa3fae-7b0b-4f43-971b-4b568406cb0f</holderId>
+                  </Value>
+                </Function>
+                <Value type="textConstant">
+                  <value>1</value>
+                </Value>
+              </Function>
+            </Function>
+          </valueElement>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>

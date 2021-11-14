@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="414" height="736">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635947233849.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635947233849-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636898964914.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636898964914-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Tempat Wisata" width="414" height="736">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1635947233849.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1635947233849-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1635947233849-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1636898964914.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1636898964914-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1636898964914-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Content" datasizewidth="414.0px" datasizeheight="1003.0px" dataX="0.0" dataY="91.0" >\
         <div id="s-Panel_1" class="pie panel default firer ie-background commentable non-processed" customid="Tempat Wisata"  datasizewidth="414.0px" datasizeheight="1003.0px" >\
@@ -29,7 +29,7 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
           	<div class="layoutWrapper scrollable">\
           	  <div class="paddingLayer">\
                 <div class="freeLayout">\
-                <div id="s-Dynamic_Panel_2" class="pie dynamicpanel firer ie-background commentable non-processed" customid="List Tempat Wisata" datasizewidth="358.0px" datasizeheight="953.0px" dataX="28.0" dataY="126.0" >\
+                <div id="s-Dynamic_Panel_2" class="pie dynamicpanel firer ie-background commentable non-processed" customid="List Tempat Wisata" datasizewidth="358.0px" datasizeheight="398.0px" dataX="28.0" dataY="126.0" >\
                   <div id="s-Panel_4" class="pie panel default firer ie-background commentable non-processed" customid="No Filter"  datasizewidth="358.0px" datasizeheight="953.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
@@ -1065,13 +1065,13 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
 \
 \
                           <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-                            <div id="s-Input_2" class="inputIOS checkbox firer click commentable non-processed unchecked" customid="Input"  datasizewidth="13.0px" datasizeheight="13.0px" dataX="18.0" dataY="30.0"      tabindex="-1">\
+                            <div id="s-Input_2" class="inputIOS checkbox firer click commentable non-processed unchecked" customid="Input"  datasizewidth="20.0px" datasizeheight="20.0px" dataX="18.0" dataY="25.0"      tabindex="-1">\
                               <div class="backgroundLayer">\
                                 <div class="colorLayer"></div>\
                                 <div class="imageLayer"></div>\
                               </div>\
                             </div>\
-                            <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Rating &gt;= 4.5"   datasizewidth="79.1px" datasizeheight="18.0px" dataX="41.0" dataY="27.0" >\
+                            <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Rating &gt;= 4.5"   datasizewidth="90.4px" datasizeheight="21.0px" dataX="41.0" dataY="23.0" >\
                               <div class="backgroundLayer">\
                                 <div class="colorLayer"></div>\
                                 <div class="imageLayer"></div>\
@@ -1090,13 +1090,13 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
 \
 \
                           <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-                            <div id="s-Input_3" class="inputIOS checkbox firer click commentable non-processed unchecked" customid="Input"  datasizewidth="13.0px" datasizeheight="13.0px" dataX="163.0" dataY="30.0"      tabindex="-1">\
+                            <div id="s-Input_3" class="inputIOS checkbox firer click commentable non-processed unchecked" customid="Input"  datasizewidth="20.0px" datasizeheight="20.0px" dataX="160.0" dataY="24.0"      tabindex="-1">\
                               <div class="backgroundLayer">\
                                 <div class="colorLayer"></div>\
                                 <div class="imageLayer"></div>\
                               </div>\
                             </div>\
-                            <div id="s-Paragraph_13" class="pie richtext autofit firer ie-background commentable non-processed" customid="Jarak &lt;= 1 km"   datasizewidth="85.6px" datasizeheight="18.0px" dataX="186.0" dataY="27.0" >\
+                            <div id="s-Paragraph_13" class="pie richtext autofit firer ie-background commentable non-processed" customid="Jarak &lt;= 1.5 km"   datasizewidth="110.1px" datasizeheight="21.0px" dataX="186.0" dataY="23.0" >\
                               <div class="backgroundLayer">\
                                 <div class="colorLayer"></div>\
                                 <div class="imageLayer"></div>\
@@ -1105,7 +1105,7 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
                                 <div class="paddingLayer">\
                                   <div class="content">\
                                     <div class="valign">\
-                                      <span id="rtr-s-Paragraph_13_0">Jarak &lt;= 1 km</span>\
+                                      <span id="rtr-s-Paragraph_13_0">Jarak &lt;= 1.5 km</span>\
                                     </div>\
                                   </div>\
                                 </div>\
@@ -1203,23 +1203,24 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
                     </div>\
                   </div>\
 \
-                  <div id="s-Image_27" class="pie image firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Image_27"   datasizewidth="13.0px" datasizeheight="21.0px" dataX="12.0" dataY="55.0"   alt="image" systemName="./images/0b242c1e-9abc-4d62-955b-ec4ec32d1a71.svg" overlay="">\
+                  <div id="s-Image_27" class="pie image firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Image_27"   datasizewidth="13.0px" datasizeheight="21.0px" dataX="12.0" dataY="55.0"   alt="image" systemName="./images/0b242c1e-9abc-4d62-955b-ec4ec32d1a71.svg" overlay="#FDFDFD">\
                     <div class="borderLayer">\
                     	<div class="imageViewport">\
                       	<?xml version="1.0" encoding="UTF-8"?>\
-                      	<svg preserveAspectRatio=\'none\' width="13px" height="21px" viewBox="0 0 13 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">\
+                      	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="21px" version="1.1" viewBox="0 0 13 21" width="13px">\
                       	    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->\
                       	    <title>Chevron</title>\
                       	    <desc>Created with Sketch.</desc>\
-                      	    <defs></defs>\
-                      	    <g id="s-Image_27-iPhone-X" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-8.000000, -272.000000)">\
-                      	        <g id="s-Image_27-Navigation-Bar---Large-Text" transform="translate(0.000000, 216.000000)" fill="#007AFF">\
+                      	    <defs />\
+                      	    <g fill="none" fill-rule="evenodd" id="s-Image_27-iPhone-X" stroke="none" stroke-width="1" transform="translate(-8.000000, -272.000000)">\
+                      	        <g fill="#007AFF" id="s-Image_27-Navigation-Bar---Large-Text" transform="translate(0.000000, 216.000000)">\
                       	            <g id="s-Image_27-Left-Accessory" transform="translate(0.000000, 45.000000)">\
-                      	                <path d="M18.0371349,31.5826673 L8.79215185,22.4458042 C8.40261605,22.0611888 8.40261605,21.4398102 8.79215185,21.0541958 L18.0371349,11.9173327 C18.5994648,11.3608891 19.5143745,11.3608891 20.0777032,11.9173327 C20.6400331,12.4737762 20.6400331,13.3768731 20.0777032,13.9333167 L12.1691276,21.7504995 L20.0777032,29.5656843 C20.6400331,30.1231269 20.6400331,31.0262238 20.0777032,31.5826673 C19.5143745,32.1391109 18.5994648,32.1391109 18.0371349,31.5826673" id="s-Image_27-Chevron"></path>\
+                      	                <path d="M18.0371349,31.5826673 L8.79215185,22.4458042 C8.40261605,22.0611888 8.40261605,21.4398102 8.79215185,21.0541958 L18.0371349,11.9173327 C18.5994648,11.3608891 19.5143745,11.3608891 20.0777032,11.9173327 C20.6400331,12.4737762 20.6400331,13.3768731 20.0777032,13.9333167 L12.1691276,21.7504995 L20.0777032,29.5656843 C20.6400331,30.1231269 20.6400331,31.0262238 20.0777032,31.5826673 C19.5143745,32.1391109 18.5994648,32.1391109 18.0371349,31.5826673" id="s-Image_27-Chevron" style="fill:#FDFDFD !important;" />\
                       	            </g>\
                       	        </g>\
                       	    </g>\
                       	</svg>\
+\
                       </div>\
                     </div>\
                   </div>\

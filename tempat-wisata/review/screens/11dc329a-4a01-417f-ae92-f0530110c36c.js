@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="414" height="736">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635947233849.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635947233849-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635947233849-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636898964914.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636898964914-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636898964914-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       </div>\
 \
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphone6plus" deviceType="mobile" d
     <div id="s-11dc329a-4a01-417f-ae92-f0530110c36c" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Detail Tempat Wisata - Borobudur" width="414" height="736">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/11dc329a-4a01-417f-ae92-f0530110c36c-1635947233849.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/11dc329a-4a01-417f-ae92-f0530110c36c-1635947233849-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/11dc329a-4a01-417f-ae92-f0530110c36c-1635947233849-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/11dc329a-4a01-417f-ae92-f0530110c36c-1636898964914.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/11dc329a-4a01-417f-ae92-f0530110c36c-1636898964914-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/11dc329a-4a01-417f-ae92-f0530110c36c-1636898964914-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Detail" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Content Panel" datasizewidth="414.0px" datasizeheight="789.6px" dataX="0.0" dataY="91.0" >\

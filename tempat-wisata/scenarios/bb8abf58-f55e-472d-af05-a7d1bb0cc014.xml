@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+  <parentCode />
+  <folderPosition>0</folderPosition>
+  <name>default</name>
+  <uuid>bb8abf58-f55e-472d-af05-a7d1bb0cc014</uuid>
+  <description />
+  <date>30/06/2010 13:12:25</date>
+  <scenarioNodes>
+    <item-group id="029fffd7-3c2c-4d6c-9520-f360a411c5be" visible="true">
+      <style name="LnFCanvas">
+        <DimensionStyle width="0.0" height="0.0" widthType="px" heightType="px" lockWidth="false" lockHeight="false" />
+        <PositioningStyle left="0.0" top="0.0" pinLeft="none" pinTop="none" lockTop="false" lockLeft="false" />
+        <BackgroundStyle type="color" value="255r255g255b0a" disabledColor="false" />
+      </style>
+    </item-group>
+  </scenarioNodes>
+  <guides />
+  <connections />
+</scenario>

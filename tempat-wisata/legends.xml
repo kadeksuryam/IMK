@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legends>
+  <legend>
+    <name>ActivityScenario</name>
+    <legend-item>
+      <name>Completed</name>
+      <color color="236r183g0b0a" />
+    </legend-item>
+    <legend-item>
+      <name>To change</name>
+      <color color="0r153g250b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Discarded</name>
+      <color color="126r211g33b0a" />
+    </legend-item>
+  </legend>
+  <legend>
+    <name>PageAction</name>
+    <legend-item>
+      <name>Completed</name>
+      <color color="236r183g0b0a" />
+    </legend-item>
+    <legend-item>
+      <name>To change</name>
+      <color color="0r153g250b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Discarded</name>
+      <color color="126r211g33b0a" />
+    </legend-item>
+  </legend>
+  <legend>
+    <name>CustomComponent</name>
+    <legend-item>
+      <name>Completed</name>
+      <color color="236r183g0b0a" />
+    </legend-item>
+    <legend-item>
+      <name>To change</name>
+      <color color="0r153g250b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Discarded</name>
+      <color color="126r211g33b0a" />
+    </legend-item>
+  </legend>
+  <legend>
+    <name>RequirementModel</name>
+    <legend-item>
+      <name>Accepted</name>
+      <color color="236r183g0b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Confirmation required</name>
+      <color color="0r153g250b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Purposed</name>
+      <color color="126r211g33b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Revised</name>
+      <color color="64r210g210b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Discarded</name>
+      <color color="242r69g65b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Ignore export</name>
+      <color color="111r111g111b0a" />
+    </legend-item>
+  </legend>
+  <legend>
+    <name>CommentModel</name>
+    <legend-item>
+      <name>Developers</name>
+      <color color="236r183g0b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Clients</name>
+      <color color="0r153g250b0a" />
+    </legend-item>
+    <legend-item>
+      <name>UX Team</name>
+      <color color="126r211g33b0a" />
+    </legend-item>
+  </legend>
+  <legend>
+    <name>BusinessObject</name>
+    <legend-item>
+      <name>Completed</name>
+      <color color="236r183g0b0a" />
+    </legend-item>
+    <legend-item>
+      <name>To change</name>
+      <color color="0r153g250b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Discarded</name>
+      <color color="126r211g33b0a" />
+    </legend-item>
+  </legend>
+  <legend>
+    <name>Template</name>
+    <legend-item>
+      <name>Completed</name>
+      <color color="236r183g0b0a" />
+    </legend-item>
+    <legend-item>
+      <name>To change</name>
+      <color color="0r153g250b0a" />
+    </legend-item>
+    <legend-item>
+      <name>Discarded</name>
+      <color color="126r211g33b0a" />
+    </legend-item>
+  </legend>
+</Legends>

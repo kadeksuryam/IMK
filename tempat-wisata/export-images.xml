@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <formats>
+    <format>
+      <size>1x</size>
+      <extension>PNG</extension>
+    </format>
+  </formats>
+  <trim>true</trim>
+  <background color="255r255g255b0a">false</background>
+</settings>
